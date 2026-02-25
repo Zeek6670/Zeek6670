@@ -1,4 +1,4 @@
-<h6 align="left"># Zeek  <br><br>→ Estudando **Python**  <br>→ Usando **VSCode**  <br>→ Rumo à Engenharia de Software  <br><br>→ Disposto a aprender novas linguagens  <br>→ Construindo uma base sólida em programação  <br>→ Foco em prática, evolução e projetos futuros</h6>
+<h6 align="left"># Zeek  <br><br>→ Estudando  <br>→ <br>→  <br><br>→  <br>→ <br>→ </h6>
 
 ###
 
